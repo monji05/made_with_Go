@@ -7,7 +7,7 @@ type Token struct {
   Literal string
 }
 
-const ( 
+const (
   ILLEGAL = "ILLEGAL"
   EOF = "EOF"
 

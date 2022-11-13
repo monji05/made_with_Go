@@ -4,8 +4,8 @@ import (
   "bufio"
   "fmt"
   "io"
-  "./monkey/lexer/lexer"
-  "./monkey/token/token"
+  "monkey/lexer"
+  "monkey/token"
 )
 
 const PROMPT = ">> "
